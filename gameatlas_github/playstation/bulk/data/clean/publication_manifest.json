@@ -1,0 +1,9 @@
+{
+  "platform": "playstation",
+  "published_at": "2026-10-07T16:19:34.002484+00:00",
+  "games": 1500,
+  "original_games_sha256": "e0f44c8f87da1f4a9a2abf344c1b124e1735dca799755dc242ba61e22bc3ff6a",
+  "files_sha256": {
+    "games_clean.json": "73268dd7f28c6d897c5df52e2f9ee59aa26e2159ee31b54834e1bd30391d4f39"
+  }
+}

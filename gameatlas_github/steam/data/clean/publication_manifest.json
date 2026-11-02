@@ -1,0 +1,9 @@
+{
+  "platform": "steam",
+  "published_at": "2026-10-07T16:19:10.799497+00:00",
+  "games": 6100,
+  "original_games_sha256": "82d4f56b49732f37dd0316b287229003d73e424c14e62c70201cc1ac76620505",
+  "files_sha256": {
+    "games_clean.json": "d13c8b9eb3e89f038fb3052cbc965fe10ef0cba2641f1516583ea3272203077c"
+  }
+}
